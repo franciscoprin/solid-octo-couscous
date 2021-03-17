@@ -1,1 +1,4 @@
-# Main instructions for this template.
+# Django app: solid-octo-couscous
+# solid-octo-couscous is so cool.
+
+# Repo description: .
